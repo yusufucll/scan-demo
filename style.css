@@ -13,6 +13,25 @@ body {
   max-width: 750px;
   margin-top: 40px;
 }
+.intro-card {
+  background: white;
+  padding: 20px 25px;
+  border-radius: 12px;
+  box-shadow: 0 0 20px rgba(0,0,0,0.10);
+  margin-bottom: 35px;
+}
+
+.intro-card h2 {
+  margin: 0 0 10px 0;
+  color: #222;
+}
+
+.intro-card p {
+  font-size: 18px;
+  color: #444;
+  line-height: 1.4;
+}
+
 
 h1 {
   color: #222;
