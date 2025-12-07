@@ -1,0 +1,28 @@
+body {
+  font-family: Arial, sans-serif;
+  background: #f6f6f6;
+  text-align: center;
+  padding: 60px;
+}
+
+h1 {
+  color: #222;
+  font-size: 32px;
+}
+
+p {
+  color: #444;
+  font-size: 18px;
+}
+
+.gif {
+  width: 350px;
+  margin: 20px auto;
+  border-radius: 12px;
+  box-shadow: 0 0 20px rgba(0,0,0,0.1);
+}
+
+.small {
+  font-size: 14px;
+  color: #777;
+}
